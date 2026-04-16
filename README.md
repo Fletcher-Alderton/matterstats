@@ -2,7 +2,22 @@
 
 A reading analytics dashboard for [Matter](https://getmatter.com). Connects to your Matter account, fetches your reading history, and visualizes it with charts and stats.
 
+**[matterstats.vercel.app](https://matterstats.vercel.app)**
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black) ![License](https://img.shields.io/badge/license-MIT-blue)
+
+<p align="center">
+  <img src="public/screenshots/login.png" alt="Login screen" width="720" />
+</p>
+<p align="center">
+  <img src="public/screenshots/dashboard.png" alt="Dashboard overview" width="720" />
+</p>
+<p align="center">
+  <img src="public/screenshots/categories.png" alt="Reading progress and categories" width="720" />
+</p>
+<p align="center">
+  <img src="public/screenshots/leaderboards.png" alt="Authors, sources, and session activity" width="720" />
+</p>
 
 ## Features
 
