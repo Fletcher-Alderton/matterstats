@@ -18,6 +18,9 @@ A reading analytics dashboard for [Matter](https://getmatter.com). Connects to y
 <p align="center">
   <img src="public/screenshots/leaderboards.png" alt="Authors, sources, and session activity" width="720" />
 </p>
+<p align="center">
+  <img src="public/screenshots/share.png" alt="Favorites and share modal" width="720" />
+</p>
 
 ## Features
 
